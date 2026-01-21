@@ -1,5 +1,5 @@
 # About Me:
-I’m currently expanding my knowledge across cybersecurity, networking, server infrastructure, code, and system design, all the way down to bare-metal and micro-architecture: how silicon, microcode, and firmware bring a CPU to life.
+Trying to learn as much as possible no matter the subject. Cybersecurity, networking, server infrastructure, code, and system design, all the way down to bare-metal and micro-architecture and other non tech related topics
 
 
 ## Socials:
