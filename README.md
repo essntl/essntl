@@ -25,7 +25,7 @@ Fluent in English, Norwegian, Ukrainian, and Russian.
 
 ### Current Project
 
-[![Lumen](https://img.shields.io/badge/ClarityDocs-Open_Source_Encyclopedia-blue?style=flat&logo=github)](https://github.com/essntl/lumen)
+[![Lumen](https://img.shields.io/badge/Lumen-orange?style=flat&logo=github)](https://github.com/essntl/lumen)
 
 An open-source high-res social media style image sharing platform tailored toward trip photos.
 
