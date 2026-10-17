@@ -17,7 +17,7 @@
 
 ### About
 
-17-year-old developer passionate about building tools that make complex things simple. Currently focused on web development, infrastructure, and creating educational resources.
+18-year-old front-end developer passionate about building simple solutions to everyday problems.
 
 Fluent in English, Norwegian, Ukrainian, and Russian.
 
