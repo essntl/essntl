@@ -25,9 +25,10 @@ Fluent in English, Norwegian, Ukrainian, and Russian.
 
 ### Current Project
 
-[![Lumen](https://img.shields.io/badge/Lumen-orange?style=flat&logo=github)](https://github.com/essntl/lumen)
+[![Anemo](https://img.shields.io/badge/Anemo-purple?style=flat&logo=github)](https://github.com/essntl/anemo)
 
-An open-source high-res social media style image sharing platform tailored toward trip photos.
+A self-hosted AI workspace that brings chat, documents, tasks and calendar together in one place. Its agents can browse the web, run code and control your computers, with permissions that keep you in charge.
+
 
 ---
 
